@@ -1,2 +1,3 @@
 # Histopathologic-Cancer-Detection-Report
-For HW5 in CS3202, Kaggle competition submission
+
+The Histopathologic Cancer Detection competition, hosted on Kaggle, presented a significant challenge in the field of medical image analysis. The competition began on November 16, 2018, and concluded on March 30, 2019. Its primary objective was to develop algorithms capable of identifying metastatic cancer from small image patches extracted from larger digital pathology scans. This report will detail my own attempt at identifying metastatic cancer from the same images as an exercise designed to showcase my knowledge and use of machine learning techniques
